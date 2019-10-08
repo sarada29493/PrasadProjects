@@ -1,0 +1,22 @@
+33
+
+39-- 60
+---------------------------
+https://www.luis.ai/
+
+http://localhost:3978/api/messages
+
+482030  phase extrapolation user story
+
+Continuation of As a user, I want to see values against applicable phase only to any discipline on phase extrapolation screen
+
+move to in testing
+-------------------------------------
+
+481026-IsAssumption && IsSystemCalculated -Valid
+
+485016-verify srd
+
+
+
+

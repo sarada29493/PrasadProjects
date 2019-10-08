@@ -1,0 +1,16 @@
+{
+  "name": "appointment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moviticketServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node moviticketServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^8.3.2"
+  }
+}

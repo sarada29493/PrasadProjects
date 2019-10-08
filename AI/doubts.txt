@@ -1,0 +1,26 @@
+Doubts
+
+1)Use of module
+
+Is it like a reuable class/function which we want to use in other file.
+
+2)Use of processinput
+
+3)How to use the assigned lsit from entity instead of giving manually
+
+4)inMemoryStorage use
+
+5)For my bot, the entities are not being highlighted in the utterances 
+for intents
+
+6)Last lines not able to get--movieTicketServer.js
+
+7)How to end a conversation dialog ?
+
+8)Sometimes it's not responding for chat?
+
+Where can I give my ending message?
+
+8)Not able to get how to show no.of tikcets and selected movie
+
+session.UserData???
